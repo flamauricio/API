@@ -1,0 +1,26 @@
+{
+  "name": "api-zero",
+  "version": "1.0.0",
+  "description": "Criando uma API do zero",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flamauricio/API.git"
+  },
+  "keywords": [
+    "API",
+    "Zero"
+  ],
+  "author": "Flavio Mauricio Valerio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/flamauricio/API/issues"
+  },
+  "homepage": "https://github.com/flamauricio/API#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
