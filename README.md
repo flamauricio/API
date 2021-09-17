@@ -11,3 +11,12 @@ Ao longo do tempo adicionar novas features
 
 Catalogadas e documentadas no README
 
+# Como dar deploy 
+```bash 
+    npm init 
+```
+```bash 
+   npm --save install express
+   or
+   npm install
+```
