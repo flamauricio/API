@@ -20,3 +20,7 @@ Catalogadas e documentadas no README
    or
    npm install
 ```
+```bash 
+   // Start 
+    npm start 
+```
