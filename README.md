@@ -4,7 +4,7 @@ Criando uma API do zero
 
 # Intuito do projeto
 
-Treinar toda a construção e elaboração de uma API res
+Treinar toda a construção e elaboração de uma API
 
 Com o objetivo de me desenvolver dentro dessa área
 
@@ -14,7 +14,7 @@ Ao longo do tempo adicionar novas features
 
 Catalogadas e documentadas no README
 
-# Como dar deploy
+# Instalar as dependecias
 
 ```bash
     npm init
@@ -27,6 +27,10 @@ Catalogadas e documentadas no README
 ```
 
 ```bash
-   // Start
+    npm install nodemon
+```
+
+# Run no projeto
+```bash
     npm start
 ```
