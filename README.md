@@ -1,5 +1,5 @@
 ![Alt text](/img/nodejs.jpg?raw=true "Imagem Node JS")
-# API
+# API :computer:
 
 Criando uma API do zero
 
