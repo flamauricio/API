@@ -35,3 +35,6 @@ Catalogadas e documentadas no README
 ```bash
     npm start
 ```
+## Desenvolvedor 
+#
+- @flamauricio
