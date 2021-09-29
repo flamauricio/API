@@ -35,6 +35,19 @@ Catalogadas e documentadas no README
 ```bash
     npm start
 ```
+# Verificar se deu certo
+```Java Script
+mensagem: "Produto inserido com sucesso",
+          produtoCriado: {
+            id_produto: resultado.id_produto,
+            nome: req.body.nome,
+            preco: req.body.preco,
+            request: {
+              tipo: "GET",
+              descricao: "Insere um produto",
+              url: "http://localhost:3000/produtos/",
+            },
+          },
+```
 ## Desenvolvedor 
-#
 - @flamauricio
