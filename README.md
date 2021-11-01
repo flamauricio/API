@@ -15,6 +15,8 @@ Ao longo do tempo adicionar novas features
 
 Catalogadas e documentadas no README
 
+- 01/11 melhor metodo de visualização é utilizar o Postaman 
+
 # Instalar as dependecias
 
 ```bash
