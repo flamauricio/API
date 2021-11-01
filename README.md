@@ -38,4 +38,4 @@ Catalogadas e documentadas no README
 # Verificar se deu certo
 ![Alt text](/img/codesnap.png?raw=true "Imagem Code JS")
 ## Desenvolvedor 
-- @flamauricio
+- <a href="https://github.com/flamauricio"> @flamauricio <a/>
